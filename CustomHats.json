@@ -58,6 +58,15 @@
             "resource": "flag_adaptive.png",
             "climbresource": "flag_climb_adaptive.png",
             "adaptive": true
+        },
+        {
+            "name": "アドミン厨",
+            "author": "トス",
+            "condition": "None",
+            "resource": "6ce6582095999222_adaptive.png",
+            "flipresource": "6ce6582095999222_adaptive_flip.png",
+            "climbresource": "6ce6582095999222_adaptive_climb.png",
+            "adaptive": true
         }
     ]
 }
